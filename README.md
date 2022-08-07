@@ -7,11 +7,9 @@
 
 -- App gets 10 countries from below endpoint and shows them in home screen. (1)
 
--- If the users want to save the countries, they can do that by clicking the star in the same line.
+-- App shows the saved countries which is starred by user in the saved screen.
 
--- The Countries which is starred will be shown in the saved screen.
-
--- In both home and saved screens, users can access the details of any country by clicking country names.
+-- In both home and saved screens, users can access the details of any country by clicking their names.
 
 -- App gets the details of countries from below endpoint by using "code" parameter. (2)
 
