@@ -21,4 +21,4 @@
 
     (2) https://wft-geo-db.p.rapidapi.com/v1/geo/countries/{code}
 
-    for example: https://wft-geo-db.p.rapidapi.com/v1/geo/countries/US
+        for example: https://wft-geo-db.p.rapidapi.com/v1/geo/countries/US
