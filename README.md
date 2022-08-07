@@ -18,9 +18,11 @@
 -- Button inside the details screen navigates to wikiData for mroe information about country.
 
 (1)
+
 https://wft-geo-db.p.rapidapi.com/v1/geo/countries
 
 (2) 
+
 https://wft-geo-db.p.rapidapi.com/v1/geo/countries/{code}
 
     for example: https://wft-geo-db.p.rapidapi.com/v1/geo/countries/US
