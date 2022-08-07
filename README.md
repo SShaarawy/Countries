@@ -5,7 +5,7 @@
 ![Ekran Alıntısı3](https://user-images.githubusercontent.com/32748494/183294145-617a882f-f6a8-4936-885a-e63282bb904e.PNG)
 ![Ekran Alıntısı4](https://user-images.githubusercontent.com/32748494/183294146-192c02c1-2bc9-495e-9e34-1622bfb98f97.PNG)
 
--- App gets 10 countries from below endpoint and shows them in home screen.(1)
+-- App gets 10 countries from below endpoint and shows them in home screen. (1)
 
 -- If the users want to save the countries, they can do that by clicking the star in the same line.
 
@@ -13,9 +13,9 @@
 
 -- In both home and saved screens, users can access the details of any country by clicking country names.
 
--- App gets the details of countries from below endpoint by using "code" parameter.(2)
+-- App gets the details of countries from below endpoint by using "code" parameter. (2)
 
--- Button inside the details screen navigates to wikiData for mroe information about country.
+-- Button inside the details screen navigates to wikiData for more information about country.
 
     (1) https://wft-geo-db.p.rapidapi.com/v1/geo/countries
 
