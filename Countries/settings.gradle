@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
+import ':'
 rootProject.name = "Countries"
 include ':app'
